@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_komentar" value="name:id_komentar;datatype:int,name:id_photo;datatype:int,name:komentar;datatype:blob,name:tanggal_komentar;datatype:date,name:id_user;datatype:int" />
+</info>

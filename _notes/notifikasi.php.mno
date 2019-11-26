@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_notifikasi" value="name:id_notif;datatype:int,name:judul;datatype:string,name:date;datatype:date,name:status;datatype:string,name:isi;datatype:blob,name:id_awal;datatype:int,name:id_akhir;datatype:int" />
+</info>

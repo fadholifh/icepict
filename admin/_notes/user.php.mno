@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user" value="name:id_user;datatype:int,name:email;datatype:string,name:email_status;datatype:string,name:password;datatype:string,name:username;datatype:string,name:fullname;datatype:string,name:bio;datatype:blob,name:profilpic;datatype:string,name:reg_date;datatype:datetime,name:ver_code;datatype:string,name:forgot_key;datatype:string,name:setting;datatype:string,name:status;datatype:string,name:point;datatype:int" />
+	<infoitem key="UD_tmp" value="name:id_user;datatype:int,name:email;datatype:string,name:email_status;datatype:string,name:password;datatype:string,name:username;datatype:string,name:fullname;datatype:string,name:bio;datatype:blob,name:profilpic;datatype:string,name:reg_date;datatype:datetime,name:ver_code;datatype:string,name:forgot_key;datatype:string,name:setting;datatype:string,name:status;datatype:string,name:point;datatype:int" />
+</info>

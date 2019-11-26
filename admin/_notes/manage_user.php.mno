@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_manage_user" value="name:id_user;datatype:int,name:email;datatype:string,name:password;datatype:string,name:username;datatype:string,name:fullname;datatype:string,name:bio;datatype:blob,name:profilpic;datatype:string,name:point;datatype:int" />
+</info>

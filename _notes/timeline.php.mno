@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_photo" value="name:id_photo;datatype:int,name:url;datatype:string,name:tanggal;datatype:date,name:id_user;datatype:int,name:caption;datatype:blob,name:filter;datatype:string" />
+	<infoitem key="UD_komen" value="name:id_komentar;datatype:int,name:id_photo;datatype:int,name:komentar;datatype:blob,name:tanggal_komentar;datatype:date,name:id_user;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:id_user;datatype:int,name:email;datatype:string,name:password;datatype:string,name:username;datatype:string,name:fullname;datatype:string,name:bio;datatype:blob,name:profilpic;datatype:string" />
+	<infoitem key="UD_user" value="name:id_user;datatype:int,name:email;datatype:string,name:password;datatype:string,name:username;datatype:string,name:fullname;datatype:string,name:bio;datatype:blob,name:profilpic;datatype:string,name:point;datatype:int" />
+	<infoitem key="UD_download" value="name:id_download;datatype:int,name:photo_id;datatype:int,name:status;datatype:string,name:dari;datatype:int" />
+</info>

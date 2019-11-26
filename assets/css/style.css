@@ -1,0 +1,51 @@
+body{
+	background-image: url('../img/bg-download_W.jpg');
+	background-attachment: fixed;
+}
+body.index{
+	background-image: url('../img/icepict.jpg');
+	background-attachment: fixed;
+	background-position:center middle;
+	background-size:100% auto;
+}
+.bg-dark{
+	background-color: #fafafa;
+
+}
+
+.photo{
+	box-shadow: 1px 1px 8px rgba(0,0,0,.8);
+	margin-bottom: 10px;
+}
+.fixed{
+	position: fixed;
+}
+.row{
+	padding: 5px;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+.nav{
+	margin-left: -10px;
+	margin-top: 11px;
+	position: fixed;
+}
+.nav1{
+	right:30px;
+	margin-top: 11px;
+	position: fixed;
+}
+.nav li{
+	display: inline;
+	padding: 10px;
+	background-color: #fefefe;
+	border-radius: 0px 0px 5px 5px;
+	border-top: 3px solid green;
+	box-shadow: 1px 1px 8px rgba(0,0,0,.4);
+}
+.nav li a{
+	color: #444;
+}
+.padding{
+	padding: 5px;	
+}
